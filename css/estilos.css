@@ -1,0 +1,24 @@
+.titulo{
+    font-family: 'Chango', cursive;
+}
+.header{
+    align-items: center;
+    text-align: center;
+}
+#todo-cont{
+    margin: 5px 150px;
+    padding: 10px;
+    background-color: #008fd5;
+    color: #fff;
+}
+.caja-todo{
+    padding: 0px;
+    border: solid 1px #fff;
+    margin-bottom: 15px;
+}
+.caja-todo, p{
+    padding-left: 5px;
+    background-color: #fff;
+    color: #000;
+}
+
